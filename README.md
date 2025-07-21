@@ -38,6 +38,23 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
     Apple:
       iPhone 13 | Running stock firmware
 
+⚙️ Other
+
+    🎮 Game consoles:
+        Nintendo:
+            New 2DS XL | Softmodded
+            Nintendo Switch v1 | Stock firmware
+        
+        Sony:
+            PS4 Original | Stock latest firmware
+        
+        Xbox:
+            Xbox 360 S | Stock firmware
+
+    📼 Accessories:
+        Flipper Zero | Stock firmware
+            WiFi devboard module | GhostESP firmware
+        
 ---
 
 Feel free to check out my repositories and projects. I'm always learning, experimenting, and building!
