@@ -51,7 +51,7 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
         Xbox:
             Xbox 360 S | Stock firmware
 
-    📼 Accessories:
+    📼 Gadgets and accessories:
         Flipper Zero | Stock firmware
             WiFi devboard module | GhostESP firmware
         
