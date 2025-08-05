@@ -32,11 +32,11 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
 📱 Phones:
 
     Samsung:
-      Galaxy S21 Ultra | Running stock firmware | MAIN PHONE
-      Galaxy S10 Plus | Running stock firmware
+      Galaxy S21 Ultra | Running OneUI 7
+      Galaxy S10 Plus | Running unknown version of OneUI
 
     Apple:
-      iPhone 13 | Running stock firmware
+      iPhone 13 | Running iOS 26 public beta | MAIN PHONE
 
 ⚙️ Other
 
