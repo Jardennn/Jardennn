@@ -15,7 +15,7 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
 💻 Computers:
 
     Lenovo:
-      Lenovo ThinkPad X220 | Running Arch Linux XFCE | MAIN LAPTOP
+      Lenovo ThinkPad X220 | Running Arch Linux XFCE/Hyprland | MAIN LAPTOP
       Lenovo G510 | Running Linux Mint
       
     HP:
