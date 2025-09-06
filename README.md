@@ -27,7 +27,7 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
         Nvidia RTX 3070 TI
         32GB ram DDR5 5600MP
         1TB SSD running Windows 11
-        512gb SSD running Linux Fedora 42 KDE
+        512gb SSD running Linux EndeavourOS KDE
 
 📱 Phones:
 
