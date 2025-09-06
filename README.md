@@ -7,7 +7,7 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
 
 - Python (beginner - intermediate)
 - C# (beginner)
-- Comfortable with Linux environments (Linux Mint, Fedora KDE)
+- Comfortable with Linux environments (Linux Mint, Fedora KDE, Arch Linux, EndeavourOS (still Arch))
 - Tinkering with tech and experimenting with open source tools
 
 
