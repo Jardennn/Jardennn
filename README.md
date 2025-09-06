@@ -3,9 +3,10 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
 
 ## ⚡ Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,mint,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mint,arch,cs,)](https://skillicons.dev)
 
 - Python (beginner - intermediate)
+- C# (beginner)
 - Comfortable with Linux environments (Linux Mint, Fedora KDE)
 - Tinkering with tech and experimenting with open source tools
 
