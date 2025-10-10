@@ -34,10 +34,10 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
 
     Samsung:
       Galaxy S21 Ultra | Running OneUI 7
-      Galaxy S10 | Running LineageOS 22.2
+      Galaxy S10 | Running LineageOS 22.2 | MAIN PHONE
 
     Apple:
-      iPhone 13 | Running iOS 26 public beta | MAIN PHONE
+      iPhone 13 | Running iOS 26
 
 ⚙️ Other
 
