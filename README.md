@@ -1,5 +1,5 @@
 # 👋 Hey there!
-I'm Jarden, I'm an almost beginner Python programmer and a high school student, I'm interested in tech and computers, programming, music, and video games. I work mostly on random little projects when I can.
+I'm Jarden, passionate developer and a high school student, I'm interested in tech and computers, programming, music, and video games. I work mostly on random little projects when I can.
 
 ## ⚡ Skills:
 
