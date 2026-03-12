@@ -3,10 +3,12 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
 
 ## ⚡ Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=py,mint,arch,cs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mint,arch,cs,html,css)](https://skillicons.dev)
 
-- Python (beginner - intermediate)
-- C# (beginner)
+- Python (Beginner - intermediate)
+- C# (Beginner)
+- HTML (Beginner)
+- CSS (Beginner)
 - Comfortable with Linux environments (Linux Mint, Fedora KDE, Arch Linux, EndeavourOS (still Arch))
 - Tinkering with tech and experimenting with open source tools
 
@@ -21,6 +23,7 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
       
     HP:
       HP EliteBook 2560p | Running Windows 7
+      HP Pavilion x360 | Running Windows 11
   
     Custom: 
       Main PC:
@@ -34,10 +37,17 @@ I'm Jarden, I'm an almost beginner Python programmer and a high school student, 
 
     Samsung:
       Galaxy S21 Ultra | Running OneUI 7
-      Galaxy S10 | Running LineageOS 22.2 | MAIN PHONE
+      Galaxy A70 | Running OneUI 2
+      Galaxy S10 | Running LineageOS 22.2
+      Galaxy S8+ | Running OneUI 1
+      Galaxy S5  | Running Android 6.0.1
 
     Apple:
       iPhone 13 | Running iOS 26
+      iPhone 4  | Running iOS 7.1.2
+    
+    Google:
+      Pixel 9 Pro XL | Running Android 16 GrapheneOS | MAIN PHONE
 
 ⚙️ Other
 
